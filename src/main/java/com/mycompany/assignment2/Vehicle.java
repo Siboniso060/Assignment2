@@ -16,7 +16,7 @@ public class Vehicle {
     public Vehicle() {
         myBrand = "unknown";
         myModel = "unknown";
-    }
+    } 
     public Vehicle(String brand, String model) {
         setBrand(brand);
         setModel(model);
